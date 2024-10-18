@@ -4,7 +4,7 @@
 		<loc>/</loc>
 		<lastmod>2021-05-07T18:00:59+00:00</lastmod>
 		<image:image>
-			<image:loc>wp-content/uploads/2021/04/azores-4365642_1920-edited-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/azores-4365642_1920-edited-1.jpg</image:loc>
 			<image:caption><![CDATA[Com a cidadania portuguesa, você poderá morar e trabalhar em Portugal]]></image:caption>
 		</image:image>
 	</url>
@@ -12,21 +12,21 @@
 		<loc>/sobre/</loc>
 		<lastmod>2021-05-07T17:49:49+00:00</lastmod>
 		<image:image>
-			<image:loc>wp-content/uploads/2021/04/hands-600497_1920.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/hands-600497_1920.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/filho-de-portugues/</loc>
 		<lastmod>2021-05-07T18:04:31+00:00</lastmod>
 		<image:image>
-			<image:loc>wp-content/uploads/2021/04/Portugal.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/Portugal.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/netos-de-portugues/</loc>
 		<lastmod>2021-05-07T18:09:52+00:00</lastmod>
 		<image:image>
-			<image:loc>wp-content/uploads/2021/04/Lisboa.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/Lisboa.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -45,18 +45,18 @@
 		<loc>/entre-em-contato/</loc>
 		<lastmod>2021-05-07T18:29:53+00:00</lastmod>
 		<image:image>
-			<image:loc>wp-content/uploads/2021/04/contact.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/contact.jpg</image:loc>
 			<image:title><![CDATA[Imagem destacada na página inicial]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc>wp-content/uploads/2021/04/nature-3595382_1920.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/nature-3595382_1920.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/sobrenomes-sefarditas/</loc>
 		<lastmod>2021-05-07T18:41:32+00:00</lastmod>
 		<image:image>
-			<image:loc>wp-content/uploads/2021/04/lighthouse-4082369_1920-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/04/lighthouse-4082369_1920-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
